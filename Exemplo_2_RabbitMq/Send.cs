@@ -39,7 +39,6 @@ namespace EnviandoMsgRabbitMq.Exemplo2
                     //vinculamos as 2 filas que criamos (bind) que irá monitorar o
                     //Exchange logs do tipo fanout
                     channel.QueueBind(queue: "MyQueuei1", exchange: "logs", "");
-                    channel.QueueBind(queue: "MyQueuei2", exchange: "logs", "");
 
                     var count = 0;
                     while (true)
