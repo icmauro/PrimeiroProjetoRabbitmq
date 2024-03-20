@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6JlCvey1LVnx9cV9hs2FWpCYlvMXbKwp6GaXtWV19rCuDzHlOZD3wBH95Pm7dCzwhdrmPgiMYOfA3LLRcSigNw==",
+  "dgSpecHash": "AmfpLJFt82Ttej1V2YzAlSxNnWP5RFJRWlXXuivh/R5R3BPgMpug06JyfZ2IjYqKUiHk5RNU2nX8rkmGDO7ipg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
+  "projectFilePath": "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Italo\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
     "C:\\Users\\Italo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

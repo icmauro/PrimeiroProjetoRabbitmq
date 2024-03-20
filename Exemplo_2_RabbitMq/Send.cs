@@ -12,6 +12,7 @@ namespace EnviandoMsgRabbitMq.Exemplo2
         //MODO FANOUT
         static void Main(string[] args)
         {
+            ///
             var factory = new ConnectionFactory() { HostName = "localhost" };
             using (var connection = factory.CreateConnection())
             {

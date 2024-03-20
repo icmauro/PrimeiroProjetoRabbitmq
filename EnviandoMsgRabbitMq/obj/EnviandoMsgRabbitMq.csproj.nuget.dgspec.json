@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj": {}
+    "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj": {
+    "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
+        "projectUniqueName": "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
         "projectName": "EnviandoMsgRabbitMq",
-        "projectPath": "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
+        "projectPath": "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\EnviandoMsgRabbitMq.csproj",
         "packagesPath": "C:\\Users\\Italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\EnviandoMsgRabbitMq\\obj\\",
+        "outputPath": "C:\\Users\\Italo\\Source\\Repos\\PrimeiroProjetoRabbitmq\\EnviandoMsgRabbitMq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
