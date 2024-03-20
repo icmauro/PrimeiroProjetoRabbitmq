@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pidlPHYpf4d8kkxoc16e6/lKMSomV78CH4DBk9NyTPg4ZPCN301FV471UNO+n+jLOf7hr0h+aaz9kgQRMT5h/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Italo\\source\\repos\\ConsumindoRabbitMQ\\RecebendoMsgRabbitMQ\\RecebendoMsgRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Italo\\.nuget\\packages\\rabbitmq.client\\6.6.0\\rabbitmq.client.6.6.0.nupkg.sha512",
+    "C:\\Users\\Italo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Italo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
